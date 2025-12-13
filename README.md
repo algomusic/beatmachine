@@ -1,4 +1,4 @@
-The Beat Machines are a family of bespoke percussion synthesizer / sequencers designed and made by Andrew R. Brown and John Ferguson using DIY electronics. They feature low cost microcontrollers and user interfaces featuring circular designs representing rhythmic cycles.
+The Beat Machines are a family of bespoke percussion synthesizer / sequencers designed and made by Andrew R. Brown and John Ferguson using DIY electronics. They employ low cost microcontrollers and feature user interfaces with circular designs representing rhythmic cycles.
 
 A range of Beat Machines have been made, the [first Beat Machine](https://www.explodingart.com/arb/2019/04/28/the-beat-machine/) was a 3-voice instrument built on a square PCB-based designed built with two Arduino Nano microcontrollers and the [Mozzi Audio library](https://sensorium.github.io/Mozzi/). The Beat Machine S3 series was an 8-voice instrument that featured an ESP32-S3 microcontroller using the [M16 audio library](https://github.com/algomusic/M16) and came in two variants, a circular PCB design and a larger version in a custom laser cut wooden enclosure.
 
